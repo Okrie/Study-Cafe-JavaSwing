@@ -6,17 +6,16 @@ Java Swing을 이용한 스터디카페 키오스크 프로그램 제작
 해당 키오스크를 관리하는 관리자용 프로그램 별개로 제작하여 관리
 
     
-<a href="https://drive.google.com/file/d/1VTt9WFu6355a83vgMauPaqlDBWldNYcL/view?usp=sharing">![cover](https://github.com/Okrie/Study-Cafe-JavaSwing/assets/24921229/4cc36520-b420-4b2e-984f-bca87e218b13)</a>    
-
+<a href="https://drive.google.com/file/d/1VTt9WFu6355a83vgMauPaqlDBWldNYcL/view?usp=sharing">![cover](https://github.com/Okrie/Study-Cafe-JavaSwing/blob/main/Forever%20Study%20Cafe.png)</a> 
 
 ##### 시연 영상
 
-<a href="https://drive.google.com/file/d/1JfIEB8llcetDuHcHJhN11GRQ4VIu6y5w/view?usp=sharing"><img src="https://github.com/Okrie/Study-Cafe-JavaSwing/assets/24921229/64b2fefd-1d11-4c30-9259-880e85652219" width="400" height="250"></a>
+<a href="https://drive.google.com/file/d/1JfIEB8llcetDuHcHJhN11GRQ4VIu6y5w/view?usp=sharing"> <img src="https://github.com/Okrie/Study-Cafe-JavaSwing/blob/main/Thumbnail.png" width="400" height="250"></a>
 
 ---
 
 ### 기능 설명
-<a href="https://drive.google.com/file/d/1yIbSfj8nYYYT9XRqJwYF7GdJ_LZZcjLS/view?usp=sharing">![image](https://github.com/Okrie/Study-Cafe-JavaSwing/assets/24921229/15ca92c0-0096-47fd-ab20-d6410c436eba)</a>
+<a href="https://drive.google.com/file/d/1yIbSfj8nYYYT9XRqJwYF7GdJ_LZZcjLS/view?usp=sharing"> ![image](https://github.com/Okrie/Study-Cafe-JavaSwing/blob/main/OverView.png)</a>
 
 - 로그인성공시 Admin 메인 페이지로 이동
 - Admin 메인페이지    
