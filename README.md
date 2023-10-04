@@ -1,7 +1,6 @@
 # Study-Cafe-JavaSwing
 
----
-### Study-Cafe
+## Study-Cafe
 Java Swing을 이용한 스터디카페 키오스크 프로그램 제작    
 해당 키오스크를 관리하는 관리자용 프로그램 별개로 제작하여 관리
 
